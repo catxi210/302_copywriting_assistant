@@ -1,6 +1,6 @@
  # 💻🤖 Welcome to 302.AI's AI Copywriting Assistant! 🚀✨
 
-[Chinese](README_zh.md) | [English](README.md) | [Japanese](README_ja.md)
+[中文](README_zh.md) | [English](README.md) | [日本語](README_ja.md)
 
 This is the open-source version of [302.AI's AI Copywriting Assistant](https://302.ai/tools/writing/).
 You can directly log in to 302.AI to use the online version with zero code and zero configuration.
