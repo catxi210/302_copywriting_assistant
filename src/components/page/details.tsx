@@ -40,6 +40,8 @@ export default function DialogDemo({ params }: { params: { id: string } }) {
   const [dataSource, setDataSource] = useState<ITool & { prompt?: string }>();
   const [generateRecords, setGenerateRecords] = useState<IGenerateRecords[]>([]);
 
+  const showBrand = process.env.NEXT_PUBLIC_SHOW_BRAND === "true";
+
   useEffect(() => {
     const lang = getLanguage()
     dispatch(setGlobalState({ language: lang }))
@@ -421,7 +423,7 @@ export default function DialogDemo({ params }: { params: { id: string } }) {
             </div>
             : <></>
         }
-        <PoweredBy language={global.language} />
+        {showBrand && <PoweredBy language={global.language} />}
       </>
       {
         !dataSource?.id && !readDataLoad ?

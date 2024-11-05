@@ -35,6 +35,8 @@ export default function Home() {
   const [recentlyUsedData, setRecentlyUsedData] = useState<Array<ITool>>([]);
   const [toolData, setToolData] = useState({ list: toolList, searchList: {} as any });
 
+  const showBrand = process.env.NEXT_PUBLIC_SHOW_BRAND === "true";
+
   useEffect(() => {
     const lang = getLanguage()
     dispatch(setGlobalState({ language: lang }))
@@ -304,7 +306,7 @@ export default function Home() {
           ))
         }
       </div>
-      <PoweredBy language={global.language} />
+      {showBrand && <PoweredBy language={global.language} />}
     </div>
   );
 }
