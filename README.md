@@ -6,6 +6,8 @@
 
 <p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
+![Interface Preview](docs/AI文案助手en.png)   
+
 This is the open-source version of [302.AI's AI Copywriting Assistant](https://302.ai/tools/writing/).
 You can directly log in to 302.AI to use the online version with zero code and zero configuration.
 Or modify this project according to your needs, input 302.AI's API KEY, and deploy it yourself.
