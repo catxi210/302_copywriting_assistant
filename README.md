@@ -11,7 +11,7 @@ You can directly log in to 302.AI to use the online version with zero code and z
 Or modify this project according to your needs, input 302.AI's API KEY, and deploy it yourself.
 
 ## Interface Preview
-Seven scene types have been launched, and multiple copywriting writing methods are available for selection. The custom copywriting production function is provided to help you quickly generate high-quality copywriting.
+Multiple scene types and copywriting writing methods have been launched for you to choose from. It also provides a custom copywriting production function to help you quickly generate high-quality copywriting.
 ![Interface Preview](docs/文案英1.png)      
 
 Taking article title generation as an example, input the content and keywords, select the type and style, and then high-quality titles can be generated according to your content.
