@@ -2,9 +2,9 @@
 
 <p align="center">AI コピーライティングアシスタントは、高品質なクリエイティブなコンテンツを迅速に生成し、既存のコピーライティングを最適化し、さまざまなシーンやターゲットオーディエンスに応じて個性化されたコンテンツをカスタマイズすることができます。</p>
 
-<p align="center"><a href="https://302.ai/tools/word/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
+<p align="center"><a href="https://302.ai/ja/tools/writing/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
 
-<p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
+<p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![インターフェースプレビュー](docs/AI文案助手jp.png)  
 
