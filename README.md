@@ -1,4 +1,4 @@
- # <p align="center">✒️ AI Copywriting Assistant! 🚀✨</p>
+ # <p align="center">✒️ AI Copywriting Assistant 🚀✨</p>
 
 <p align="center">The AI copywriting assistant can quickly generate high-quality creative content, optimize existing copywriting, and customize personalized content according to different scenarios and target audiences.</p>
 
@@ -8,7 +8,7 @@
 
 ![Interface Preview](docs/AI文案助手en.png)   
 
-This is the open-source version of [302.AI's AI Copywriting Assistant](https://302.ai/en/tools/writing/).
+This is the open-source version of [AI Copywriting Assistant](https://302.ai/en/tools/writing/) from [302.AI](https://302.ai).
 You can directly log in to 302.AI to use the online version with zero code and zero configuration.
 Or modify this project according to your needs, input 302.AI's API KEY, and deploy it yourself.
 
