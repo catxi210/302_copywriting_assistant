@@ -8,7 +8,7 @@
 
 ![Interface Preview](docs/AI文案助手en.png)   
 
-This is the open-source version of [302.AI's AI Copywriting Assistant](https://302.ai/tools/writing/).
+This is the open-source version of [302.AI's AI Copywriting Assistant](https://302.ai/en/tools/writing/).
 You can directly log in to 302.AI to use the online version with zero code and zero configuration.
 Or modify this project according to your needs, input 302.AI's API KEY, and deploy it yourself.
 
